@@ -72,7 +72,7 @@ End<br>
 ## PROGRAM :
 ```
 DEVELOPED BY : PRANATHI.M
-REGISTER NUMBER: 212222244064
+REGISTER NUMBER: 212222240064
 ```
 ```PY
 from itertools import permutations
